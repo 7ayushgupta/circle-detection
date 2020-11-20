@@ -1,4 +1,4 @@
-# Linkwiz Test
+# Circles detection (Linkwiz)
 
 The task is to identify the radii, centers and normals of the two holes. We are given a txt file containing an unorganised pointcloud.
 
